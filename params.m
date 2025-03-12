@@ -1,6 +1,8 @@
 clc; clear;
 
-%% General Specs
+%% General Specs 
+% Trial commit
+temp = 7;
 mass = 3.2;
 n_prop = 6;
 DC_Motor_voltage=0;
